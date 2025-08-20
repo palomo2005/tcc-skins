@@ -1,16 +1,17 @@
-import { } from 'react-native';
+import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        paddingTop: 8,
+        // paddingTop: 8,
+        // marginTop: 18,
         backgroundColor: 'coral',
     },
     esconder: {
         backgroundColor: '#f00',
-        heigth: 10,
+        height: 18,
         width: '100%',
-    },
+    }
 });
 
-export default styles
+export default styles;

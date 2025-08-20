@@ -1,9 +1,9 @@
 import { View, Text } from 'react-native';
 
-export default function CadUsuario() {
+export default function PerfilUsuario() {
     return (
         <View> 
-            <Text>Home</Text>
+            <Text>Seu Perfil</Text>
         </View>
     );
 } 
